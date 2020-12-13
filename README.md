@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hello! I'm Thales Henrique
+<img style="margin: 0 auto" src="https://media.giphy.com/media/yCKNudSnSEzOo/giphy.gif" height="200">
 
-<!--
-**Thalesh17/Thalesh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/thales-henrique-pb/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:karanalpe@gmail.com)](mailto:thaalesheenrique@gmail.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 👷 22 years old, software engineer, lover of good coffee.
+- Tools and languages ​​I use most:
+```javascript
+let tools = [
+   {tool: ReactJS},
+   {tool: React Native},
+   {tool: NodeJS},
+   {tool: NestJS},
+   {tool: TypeScript},
+   {tool: PostgreSQL},
+   {tool: Spring Boot},
+]
+```
+### About
+
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=Thalesh17&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Thalesh17&layout=compact)](https://github.com/Thalesh17/github-readme-stats)
